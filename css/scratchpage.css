@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif ;
+  background-color: #f8f9fa;
+  text-align: center;
+  list-style-position: inside;
+  background-color: lightcoral;
+}
+
+.header {
+    font-size: xx-large;
+    font-weight: bold;
+    border: black;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px; 
+}
+
+ol {
+    font-size: x-large;
+}
+
+li {
+    font-size: medium;
+}
+
